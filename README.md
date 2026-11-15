@@ -1,6 +1,6 @@
 # Boulder's Hot Summers: Counting 90°F Days, 1980–2025
 
-**Author:** Madeleine Deutsch (with project partner Dustin)
+**Author:** Madeleine Deutsch and Dustin Reidy
 **Course:** INFO 4617 Web Data Science, CU Boulder, Fall 2026
 
 ## Research question
