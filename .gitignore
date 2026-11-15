@@ -1,0 +1,7 @@
+# Raw API responses and full cleaned table: regenerate by running analysis.ipynb
+data/raw/
+data/boulder_summer_daily.csv
+.DS_Store
+.ipynb_checkpoints/
+.DS_Store
+Untitled*.ipynb
