@@ -34,13 +34,11 @@ Are Boulder summers getting hotter? This project counts the number of days each 
 
 ![Days at or above 90°F each summer](figures/hot_days_per_year.png)
 
-*Figure 1. Boulder's number of 90°F+ summer days has risen by about 4 days per decade since 1980, with 2012 the hottest summer in this data.*
+Boulder's number of 90°F+ summer days has risen by about 4 days per decade since 1980, with 2012 the hottest summer in this data.
 
 ![Average 90°F+ days by decade](figures/hot_days_by_decade.png)
 
-*Figure 2. Summers in the 2020s have averaged about 20 days at or above 90°F, more than seven times the 1980s average.*
-
-More figures are in [figures/](figures/). **Caveat:** Open-Meteo data is modeled from a grid, not measured at a weather station, so exact counts may differ from Boulder station records.
+Summers in the 2020s have averaged about 20 days at or above 90°F, more than seven times the 1980s average.
 
 ## How to reproduce
 
