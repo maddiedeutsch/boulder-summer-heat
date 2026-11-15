@@ -29,13 +29,8 @@ Are Boulder summers getting hotter? This project counts the number of days each 
 
 ## Findings
 
-*Preliminary results.*
-
-- **Hot days are increasing.** Boulder gained about **4.1 more 90°F+ days per decade** from 1980 to 2025 (r = 0.61).
-- **The 2020s are the hottest decade so far.** Summers averaged **20.3** days at or above 90°F in 2020 to 2025, compared with **2.7** in the 1980s and **4.3** in the 1990s.
-- **The jump started around 2000.** The 2000s (14.2) and 2010s (12.5) were both far above the 1980s and 1990s.
-- **Hottest summers:** 2012 (36 days), 2025 (29), 2002 (27), 2020 (25), and 2024 (25). Three of the top five are from the 2020s.
-- **Hot days track overall heat.** Summers with more 90°F+ days also had higher average highs (r = 0.84).
+- We can see from the data table that hot days are increasing. Boulder gained about 4.1 more 90°F+ days per decade from 1980 to 2025. The 2020s are the hottest decade we've seen so far. Summers averaged 20.3 days at or above 90°F in 2020 to 2025, compared with 2.7 in the 1980s and 4.3 in the 1990s. The jump started around 2000. The 2000s (14.2 days) and 2010s (12.5 days) were both far above the 80s and 90s.
+- Hottest summers: 2012 (36 days), 2025 (29 days), 2002 (27 days), 2020 (25 days), and 2024 (25 days). Three of the top five are from the 2020s.
 
 ![Days at or above 90°F each summer](figures/hot_days_per_year.png)
 
